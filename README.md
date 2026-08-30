@@ -1,8 +1,9 @@
 # Delhi Air Quality (AQI) Dashboard 2025 — Excel
 
 Excel dashboard analyzing 134,516 hourly air quality readings across 10 
-monitoring stations in Delhi (2025), covering pollutants, weather, and 
-calculated AQI values.
+monitoring stations in Delhi (2025), using the 
+[Delhi AQI 2025 — Air Quality & Pollution Dataset](https://www.kaggle.com/datasets/knoxwave/delhi-aqi-2025-air-quality-and-pollution-dataset) 
+by Ajit Kumar (Kaggle, CC BY-NC-SA 4.0).
 
 ![Dashboard Overview](aqi-dashboard-overview.png)
 
