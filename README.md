@@ -28,8 +28,7 @@ likely due to uncapped raw calculation rather than a true reading.
 ## Dashboard Features
 - Monthly, station-wise, and season-wise PivotTables and PivotCharts
 - Interactive Month slicer
-- Dataset: 134,516 hourly readings across 10 Delhi monitoring stations 
-  (not included in repo due to file size — available on request)
+- Full raw dataset (134,516 rows) included in this repo
 
 ## Tools
 Microsoft Excel — PivotTables, PivotCharts, Slicers
